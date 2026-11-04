@@ -1,0 +1,14 @@
+{
+  "id": "./pwa.html",
+  "name": "질판위 오프라인 자료관리",
+  "short_name": "질판위",
+  "lang": "ko-KR",
+  "start_url": "./pwa.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f9",
+  "theme_color": "#17365d",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
